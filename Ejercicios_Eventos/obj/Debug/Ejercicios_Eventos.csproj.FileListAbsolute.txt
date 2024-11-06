@@ -1,0 +1,7 @@
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Eventos\Ejercicios_Eventos\obj\Debug\Ejercicios_Eventos.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Eventos\Ejercicios_Eventos\obj\Debug\Ejercicios_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Eventos\Ejercicios_Eventos\bin\Debug\Ejercicios_Eventos.exe.config
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Eventos\Ejercicios_Eventos\bin\Debug\Ejercicios_Eventos.exe
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Eventos\Ejercicios_Eventos\bin\Debug\Ejercicios_Eventos.pdb
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Eventos\Ejercicios_Eventos\obj\Debug\Ejercicios_Eventos.exe
+C:\Users\paula\OneDrive\Escritorio\Ejercicios_Eventos\Ejercicios_Eventos\obj\Debug\Ejercicios_Eventos.pdb
